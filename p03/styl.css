@@ -1,0 +1,8 @@
+table{max-width:768px;font-family:sans-serif;}
+table table{width:100%;border-collapse:collapse;}
+table caption{font-size:1.4em;padding:20px;}
+table thead tr{background: #000;color:#fff;}
+table tbody tr{background: #eee;}
+table tr:nth-child(even){background: #def;}
+table tbody tr:hover{background: #fc0;}
+table td{padding:8px 4px;text-align: center;}
